@@ -4,9 +4,10 @@ public class Duck {
 	private String alias;
 	private int age;
 	private String faveFood;
+	protected FlyingBehavior flyingType;
 
 	public Duck(String alias, int age, String faveFood) {
-		alias = alias;
+		this.alias = alias;
 		this.age = age;
 		this.faveFood = faveFood;
 	}
@@ -33,5 +34,13 @@ public class Duck {
 
 	public void setFaveFood(String faveFood) {
 		this.faveFood = faveFood;
+	}
+
+	public String tryFlying() {
+		return flyingType.tryFlying();
+	}
+
+	public void setFlyingType(FlyingBehavior flyingType) {
+		this.flyingType = flyingType;
 	}
 }
