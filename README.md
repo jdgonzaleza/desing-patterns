@@ -6,6 +6,10 @@ Design patterns will help you out write extendible and scalable code.
 ### Design Patterns covered
 
 * Strategy
+* Observer
+* Factory
+* Abstract Factory
+
 
 
 Made with ❤️ by gorygon - jdgonzaleza 
