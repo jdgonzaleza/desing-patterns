@@ -10,7 +10,8 @@ Design patterns will help you out write extendible and scalable code.
 * Factory
 * Singleton
 * Builder
-
+* Decorator
+* Prototype
 
 
 Made with ❤️ by gorygon - jdgonzaleza 
