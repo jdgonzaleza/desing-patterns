@@ -12,6 +12,7 @@ Design patterns will help you out write extendible and scalable code.
 * Builder
 * Decorator
 * Prototype
-
+* Facade
+* Adapter
 
 Made with ❤️ by gorygon - jdgonzaleza 
