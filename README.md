@@ -8,7 +8,8 @@ Design patterns will help you out write extendible and scalable code.
 * Strategy
 * Observer
 * Factory
-* Abstract Factory
+* Singleton
+* Builder
 
 
 
