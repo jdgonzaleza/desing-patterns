@@ -14,5 +14,6 @@ Design patterns will help you out write extendible and scalable code.
 * Prototype
 * Facade
 * Adapter
+* Bridge
 
 Made with ❤️ by gorygon - jdgonzaleza 
